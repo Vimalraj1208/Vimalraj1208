@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080006,45:1A0012,75:8B0A50,100:FF1493&height=230&section=header&text=VIMAL%20RAJ&fontSize=55&fontColor=FF69B4&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,75:8B6508,100:FFD700&height=230&section=header&text=VIMAL%20RAJ&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Raw+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Interactive+Dashboards;Data+Cleaning+%7C+EDA+%7C+Visualization;Learning+AI-Assisted+Coding"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Raw+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Interactive+Dashboards;Data+Cleaning+%7C+EDA+%7C+Visualization;Learning+AI-Assisted+Coding"/>
 
 <br><br>
 
@@ -15,24 +15,24 @@
 <br>
 
 <a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
-<img src="https://img.shields.io/badge/🚀_PORTFOLIO-FF1493?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/🚀_PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/Vimalraj1208">
-<img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vimalraj0406/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="https://www.instagram.com/alone_boy_vimal__/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Vimalraj1208&label=PROFILE%20VIEWS&color=FF1493&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Vimalraj1208&label=PROFILE%20VIEWS&color=FFD700&style=flat-square"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🩷 `ABOUT ME`
+## 💛 `ABOUT ME`
 
 </div>
 
@@ -79,7 +79,7 @@ My focus is on understanding data, identifying patterns, building interactive da
 
 <div align="center">
 
-## 🩷 `SKILLS`
+## 💛 `SKILLS`
 
 </div>
 
@@ -134,7 +134,7 @@ VS Code
 
 <div align="center">
 
-## 🩷 `TECH STACK`
+## 💛 `TECH STACK`
 
 <br>
 
@@ -142,12 +142,12 @@ VS Code
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Pandas-FF1493?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Excel-FF1493?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Power%20BI-FF1493?style=for-the-badge&logo=powerbi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Power%20Query-FF1493?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=000000"/>
+<img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Excel-FFD700?style=for-the-badge&logo=microsoftexcel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Power%20Query-FFD700?style=for-the-badge&logo=microsoft&logoColor=000000"/>
 
 </div>
 
@@ -155,7 +155,7 @@ VS Code
 
 <div align="center">
 
-## 🩷 `FEATURED PROJECTS`
+## 💛 `FEATURED PROJECTS`
 
 </div>
 
@@ -177,7 +177,7 @@ Analyzed BMW sales data to identify sales trends, revenue performance, top-selli
 <br>
 
 <a href="https://github.com/Vimalraj1208/BMW-Car-Sales-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -197,7 +197,7 @@ Interactive dashboard analyzing complaints across products, companies, states, i
 <br>
 
 <a href="https://github.com/Vimalraj1208/Consumer-Complaints-Power-BI-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -221,7 +221,7 @@ Built an interactive dashboard to analyze sales performance, products, trends an
 <br>
 
 <a href="https://github.com/Vimalraj1208/amazon-sales-analysis-excel-dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -241,7 +241,7 @@ Analyzed e-commerce data to understand sales trends, customer behavior, product 
 <br>
 
 <a href="https://github.com/Vimalraj1208/E-Commerce-Sales-Analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -265,7 +265,7 @@ Analyzed 2025 mobile phone data covering brands, pricing, RAM, storage, battery,
 <br>
 
 <a href="https://github.com/Vimalraj1208/Mobile-Market-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -285,7 +285,7 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 <br>
 
 <a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
-<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FF1493?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a>
 
 </td>
@@ -297,7 +297,7 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 
 <div align="center">
 
-## 🩷 `MY DATA WORKFLOW`
+## 💛 `MY DATA WORKFLOW`
 
 ```text
                  ┌───────────────┐
@@ -335,7 +335,7 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 
 <div align="center">
 
-## 🩷 `ANALYTICS TOOLKIT`
+## 💛 `ANALYTICS TOOLKIT`
 
 <table>
 
@@ -395,7 +395,7 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 
 <div align="center">
 
-## 🩷 `CURRENTLY LEARNING`
+## 💛 `CURRENTLY LEARNING`
 
 <table>
 <tr>
@@ -445,9 +445,9 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARNING-FF1493?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/BUILDING-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/IMPROVING-FF1493?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LEARNING-FFD700?style=for-the-badge&logo=bookstack&logoColor=000000"/>
+<img src="https://img.shields.io/badge/BUILDING-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/IMPROVING-FFD700?style=for-the-badge&logo=rocket&logoColor=000000"/>
 
 </div>
 
@@ -455,7 +455,7 @@ A personal portfolio website showcasing my projects, skills, experience, certifi
 
 <div align="center">
 
-## 🩷 `EXPERIENCE`
+## 💛 `EXPERIENCE`
 
 </div>
 
@@ -479,7 +479,7 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🩷 `CERTIFICATIONS`
+## 💛 `CERTIFICATIONS`
 
 </div>
 
@@ -489,13 +489,21 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 | Data Science Internship Completion                               | Persevex          | 2026 |
 | IP-to-IPO Innovation Competition – Startify 3.0                  | Anna University   | 2025 |
 
+---
+
 <div align="center">
 
-## 🩷 `CONTRIBUTION GRAPH`
+## 💛 `GITHUB ANALYTICS`
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj1208&bg_color=0A0007&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj1208&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFF4B8&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj1208&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFF4B8&bg_color=00000000" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimalraj1208&theme=transparent&hide_border=true&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=FFF4B8&dates=D4D4D4"/>
 
 </div>
 
@@ -503,7 +511,19 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🩷 `MY DATA JOURNEY`
+## 💛 `CONTRIBUTION GRAPH`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj1208&bg_color=050505&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💛 `MY DATA JOURNEY`
 
 ```text
 2023
@@ -534,7 +554,7 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🩷 `WHAT I LOVE BUILDING`
+## 💛 `WHAT I LOVE BUILDING`
 
 <table>
 
@@ -618,7 +638,7 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🩷 `GOAL`
+## 💛 `GOAL`
 
 ### **Turning Data → Insights → Decisions**
 
@@ -631,7 +651,7 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 ### 🌐 Explore My Portfolio
 
 <a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
-<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-FF1493?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a>
 
 <br><br>
@@ -639,15 +659,15 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/vimalraj0406/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/Vimalraj1208">
-<img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a>
 
 <br><br>
@@ -660,6 +680,6 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-### `DATA IS EVERYWHERE. INSIGHTS ARE POWER.` 🩷
+### `DATA IS EVERYWHERE. INSIGHTS ARE POWER.` 💛
 
 </div>
