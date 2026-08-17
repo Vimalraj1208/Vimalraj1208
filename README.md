@@ -1,24 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:FFD700&height=220&section=header&text=VIMAL%20RAJ&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:38BDF8&height=230&section=header&text=VIMAL%20RAJ&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=18"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Raw+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Interactive+Dashboards;Learning+AI-Assisted+Coding" />
+
+<br><br>
 
 ### `DATA • INSIGHTS • VISUALIZATION`
 
-**Turning raw data into meaningful business insights.**
+**Turning raw data into meaningful business decisions.**
 
 <br>
 
-<a href="https://www.linkedin.com/in/vimalraj0406/">
-<img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
 </a>
+
 <a href="https://github.com/Vimalraj1208">
-<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
+
+<a href="https://www.linkedin.com/in/vimalraj0406/">
+<img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=020617"/>
+</a>
+
 <a href="https://www.instagram.com/alone_boy_vimal__/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-38BDF8?style=for-the-badge&logo=instagram&logoColor=020617"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vimalraj1208&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square"/>
 
 </div>
 
@@ -26,7 +40,7 @@
 
 <div align="center">
 
-## 🟡 `ABOUT ME`
+## 🩵 `ABOUT ME`
 
 </div>
 
@@ -38,60 +52,23 @@
 
 I'm **Vimal Raj**, a final-year **Computer Science & Engineering student** and aspiring **Data Analyst**.
 
-I enjoy transforming raw datasets into useful insights using **SQL, Python, Excel and Power BI**.
+I enjoy transforming raw datasets into meaningful insights using **SQL, Python, Excel and Power BI**.
 
-My interests include:
+My focus is on understanding data, finding patterns, building interactive dashboards and communicating insights that support better decisions.
 
-`Data Analytics` · `Business Intelligence` · `Data Visualization` · `Dashboard Development`
+### 🎯 What I Do
 
-</td>
-</tr>
-</table>
+* 📊 Analyze and clean datasets
+* 🐍 Perform data analysis using Python
+* 🗄️ Write SQL queries for business problems
+* 📈 Build interactive Power BI dashboards
+* 📑 Create Excel-based analytics solutions
+* 🔎 Perform EDA and KPI analysis
+* 💡 Convert data into actionable insights
 
-<br>
+### 🚀 Career Goal
 
-<div align="center">
-
-## 🟡 `SKILLS`
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-### 📊 DATA ANALYTICS
-
-`Python`
-`Pandas`
-`SQL`
-`MySQL`
-`Excel`
-`Power BI`
-
-</td>
-
-<td align="center">
-
-### 🔎 DATA SKILLS
-
-`Data Cleaning`
-`EDA`
-`Data Visualization`
-`DAX`
-`Data Modeling`
-`KPI Analysis`
-
-</td>
-
-<td align="center">
-
-### 🛠️ TOOLS
-
-`Git`
-`GitHub`
-`Figma`
-`Canva`
+> **Become a Data Analyst who turns complex data into simple decisions.**
 
 </td>
 </tr>
@@ -101,7 +78,83 @@ My interests include:
 
 <div align="center">
 
-## 🟡 `FEATURED PROJECTS`
+## 🩵 `SKILLS`
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 📊 DATA ANALYTICS
+
+🐍 Python
+🐼 Pandas
+🗄️ SQL
+🐬 MySQL
+📗 Excel
+📊 Power BI
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔎 ANALYTICS SKILLS
+
+Data Cleaning
+Exploratory Data Analysis
+Data Visualization
+DAX
+Data Modeling
+KPI Analysis
+Business Insights
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ TOOLS
+
+Git
+GitHub
+Power Query
+Figma
+Canva
+Jupyter Notebook
+VS Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🩵 `TECH STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Pandas-38BDF8?style=for-the-badge&logo=pandas&logoColor=020617"/>
+<img src="https://img.shields.io/badge/MySQL-38BDF8?style=for-the-badge&logo=mysql&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Excel-38BDF8?style=for-the-badge&logo=microsoftexcel&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Power%20BI-38BDF8?style=for-the-badge&logo=powerbi&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Power%20Query-38BDF8?style=for-the-badge&logo=microsoft&logoColor=020617"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `FEATURED PROJECTS`
 
 </div>
 
@@ -123,7 +176,7 @@ Analyzed BMW sales data to identify sales trends, revenue performance, top-selli
 <br>
 
 <a href="https://github.com/Vimalraj1208/BMW-Car-Sales-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
@@ -143,7 +196,7 @@ Interactive dashboard analyzing complaints across products, companies, states, i
 <br>
 
 <a href="https://github.com/Vimalraj1208/Consumer-Complaints-Power-BI-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
@@ -158,7 +211,7 @@ Interactive dashboard analyzing complaints across products, companies, states, i
 
 **Excel Dashboard**
 
-Built an interactive dashboard for analyzing sales performance and business trends.
+Built an interactive dashboard to analyze sales performance, products, trends and business KPIs.
 
 **Stack**
 
@@ -167,7 +220,7 @@ Built an interactive dashboard for analyzing sales performance and business tren
 <br>
 
 <a href="https://github.com/Vimalraj1208/amazon-sales-analysis-excel-dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
@@ -187,7 +240,7 @@ Analyzed e-commerce data to understand sales trends, customer behavior, product 
 <br>
 
 <a href="https://github.com/Vimalraj1208/E-Commerce-Sales-Analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
@@ -211,21 +264,27 @@ Analyzed 2025 mobile phone data covering brands, pricing, RAM, storage, battery,
 <br>
 
 <a href="https://github.com/Vimalraj1208/Mobile-Market-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💡 More Projects
+### 🌐 Portfolio Website
 
-Explore my repositories for additional analytics, dashboard and development projects.
+**Personal Data Analytics Portfolio**
 
-<br><br>
+A personal portfolio website showcasing my projects, skills, experience, certifications and analytics journey.
 
-<a href="https://github.com/Vimalraj1208?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
 </a>
 
 </td>
@@ -237,32 +296,36 @@ Explore my repositories for additional analytics, dashboard and development proj
 
 <div align="center">
 
-## 🟡 `MY DATA WORKFLOW`
+## 🩵 `MY DATA WORKFLOW`
 
 ```text
-┌─────────────┐
-│  RAW DATA   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ DATA CLEAN  │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│     EDA     │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   ANALYZE   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ VISUALIZE   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   INSIGHT   │
-└─────────────┘
+        ┌───────────────┐
+        │   RAW DATA    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ DATA CLEANING │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     EDA       │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    ANALYZE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  VISUALIZE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    INSIGHT    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ DECISION MAKING│
+        └───────────────┘
 ```
 
 </div>
@@ -271,32 +334,58 @@ Explore my repositories for additional analytics, dashboard and development proj
 
 <div align="center">
 
-## 🟡 `TECHNOLOGY`
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-FFD700?style=for-the-badge&logo=microsoftexcel&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🟡 `CURRENTLY LEARNING`
+## 🩵 `ANALYTICS TOOLKIT`
 
 <table>
+
 <tr>
-<td align="center">🗄️<br><b>Advanced SQL</b></td>
-<td align="center">🐍<br><b>Python Analytics</b></td>
-<td align="center">📊<br><b>Power BI</b></td>
-<td align="center">📐<br><b>DAX</b></td>
-<td align="center">🤖<br><b>AI Coding</b></td>
+
+<td align="center">
+
+### 🐍 Python
+
+`Pandas`
+`NumPy`
+`Matplotlib`
+`Seaborn`
+
+</td>
+
+<td align="center">
+
+### 🗄️ SQL
+
+`MySQL`
+`JOINs`
+`Subqueries`
+`Window Functions`
+
+</td>
+
+<td align="center">
+
+### 📊 Power BI
+
+`DAX`
+`Power Query`
+`Data Modeling`
+`Interactive Dashboards`
+
+</td>
+
+<td align="center">
+
+### 📗 Excel
+
+`Pivot Tables`
+`Pivot Charts`
+`Slicers`
+`Data Cleaning`
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
@@ -305,7 +394,67 @@ Explore my repositories for additional analytics, dashboard and development proj
 
 <div align="center">
 
-## 🟡 `EXPERIENCE`
+## 🩵 `CURRENTLY LEARNING`
+
+<table>
+<tr>
+
+<td align="center">
+
+🗄️
+
+### Advanced SQL
+
+</td>
+
+<td align="center">
+
+🐍
+
+### Python Analytics
+
+</td>
+
+<td align="center">
+
+📊
+
+### Power BI
+
+</td>
+
+<td align="center">
+
+📐
+
+### DAX
+
+</td>
+
+<td align="center">
+
+🤖
+
+### AI-Assisted Coding
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARNING-38BDF8?style=for-the-badge&logo=bookstack&logoColor=020617"/>
+<img src="https://img.shields.io/badge/BUILDING-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+<img src="https://img.shields.io/badge/IMPROVING-38BDF8?style=for-the-badge&logo=rocket&logoColor=020617"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `EXPERIENCE`
 
 </div>
 
@@ -329,7 +478,7 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🟡 `CERTIFICATIONS`
+## 🩵 `CERTIFICATIONS`
 
 </div>
 
@@ -343,24 +492,189 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 
 <div align="center">
 
-## 🟡 `GOAL`
-
-### **Become a Data Analyst who turns complex data into simple decisions.**
+## 🩵 `GITHUB ANALYTICS`
 
 <br>
 
-`LEARN` → `BUILD` → `ANALYZE` → `SHARE` → `GROW`
+<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj1208&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj1208&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimalraj1208&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `CONTRIBUTION GRAPH`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj1208&bg_color=020617&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `MY DATA JOURNEY`
+
+```text
+2023
+  │
+  ├── 🎓 Started Computer Science & Engineering
+  │
+2024
+  │
+  ├── 💻 Programming & Development
+  │
+2025
+  │
+  ├── 📊 Started Data Analytics
+  ├── 🗄️ SQL & Excel
+  ├── 📈 Power BI
+  │
+2026
+  │
+  ├── 🐍 Python Analytics
+  ├── 📊 Advanced Dashboard Development
+  ├── 🤖 AI-Assisted Coding
+  └── 🚀 Preparing for Data Analyst Career
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `WHAT I LOVE BUILDING`
+
+<table>
+
+<tr>
+
+<td align="center">
+
+📊
+
+**Analytics Dashboards**
+
+</td>
+
+<td align="center">
+
+🗄️
+
+**SQL Solutions**
+
+</td>
+
+<td align="center">
+
+🐍
+
+**Python Analytics**
+
+</td>
+
+<td align="center">
+
+📈
+
+**Business Insights**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🧹
+
+**Data Cleaning**
+
+</td>
+
+<td align="center">
+
+🔎
+
+**EDA**
+
+</td>
+
+<td align="center">
+
+📐
+
+**KPI Analysis**
+
+</td>
+
+<td align="center">
+
+💡
+
+**Data Storytelling**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 `GOAL`
+
+### **Turning Data → Insights → Decisions**
+
+<br>
+
+`LEARN` → `BUILD` → `ANALYZE` → `VISUALIZE` → `SHARE` → `GROW`
+
+<br><br>
+
+### 🌐 Explore My Portfolio
+
+<a href="https://vimalraj1208.github.io/vimalraj_protfolio/">
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-38BDF8?style=for-the-badge&logoColor=020617"/>
+</a>
 
 <br><br>
 
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/vimalraj0406/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=020617"/>
+</a>
+
+<a href="https://github.com/Vimalraj1208">
+<img src="https://img.shields.io/badge/GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 <br><br>
 
-<sub>© 2026 Vimal Raj • Built with Data & Curiosity</sub>
+<sub>© 2026 Vimal Raj • Built with Data, Curiosity & Consistency</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### `DATA IS EVERYWHERE. INSIGHTS ARE POWER.` 🩵
 
 </div>
