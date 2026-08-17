@@ -489,27 +489,6 @@ Worked with **Excel, SQL, Power BI and Python** to analyze business data and gen
 | Data Science Internship Completion                               | Persevex          | 2026 |
 | IP-to-IPO Innovation Competition – Startify 3.0                  | Anna University   | 2025 |
 
----
-
-<div align="center">
-
-## 💛 `GITHUB ANALYTICS`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vimalraj1208&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFF4B8&bg_color=00000000" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj1208&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFF4B8&bg_color=00000000" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimalraj1208&theme=transparent&hide_border=true&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=FFF4B8&dates=D4D4D4"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 💛 `CONTRIBUTION GRAPH`
 
